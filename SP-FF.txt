@@ -1,0 +1,8 @@
+SP-FF
+score= 12.0125
+Mean Resource Utilization = 0.2071818181818182
+
+
+KSP-FF
+score= 12.825
+Mean Resource Utilization = 0.22709090909091145
